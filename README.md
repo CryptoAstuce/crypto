@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours technique en français sur les hachages, arbres authentifiés, transcripts et primitives AEAD du rollup Miden est disponible dans [`docs/fr/`](docs/fr/).
+
 # Miden Crypto
 
 > [!IMPORTANT]
